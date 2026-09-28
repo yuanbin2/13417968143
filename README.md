@@ -3,7 +3,7 @@
 ### I'm WeiXiaobin from China 🇨🇳 
 ## 🎉 Welcome to my GitHub profile! 🚀
 <!--
-**13417968143/13417968143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**yuanbin2/yuanbin2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-    <img height="165px" src="https://github-readme-stats.vercel.app/api?username=13417968143&theme=rose&hide=issues,contribs&show_icons=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=13417968143&layout=compact" />
+    <img height="165px" src="https://github-readme-stats.vercel.app/api?username=yuanbin2&theme=rose&hide=issues,contribs&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuanbin2&layout=compact" />
 </div>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/13417968143/13417968143/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/13417968143/13417968143/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/13417968143/13417968143/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuanbin2/yuanbin2/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuanbin2/yuanbin2/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yuanbin2/yuanbin2/output/github-contribution-grid-snake.svg">
 </picture>
 <div align="center">
     <img src="./profile-3d-contrib/profile-gitblock.svg" />
